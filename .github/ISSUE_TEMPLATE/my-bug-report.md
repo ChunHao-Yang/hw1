@@ -1,13 +1,13 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: My Bug report
+about: Create a report to help us improve *v*
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
+** Please Describe the bug**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
