@@ -18,7 +18,7 @@ jobs:
       - name: Install dependencies
         run:
           pip install --upgrade  pip
-          pip intsall numpy
+          pip intsall numpy pytest
 
       - name: Greeting
         run: echo "Hello world!"
